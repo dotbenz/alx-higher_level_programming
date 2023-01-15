@@ -1,1 +1,1 @@
-# This is the Readme file for  Python - if/else, loops, functions
+# These are the tasks for  Python - if/else, loops, functions
